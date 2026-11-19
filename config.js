@@ -23,9 +23,13 @@ global.APIKeys = {
     'https://api-fgmods.ddns.net': 'fg-dylux'
 };
 
-module.exports = {
-    WARN_COUNT: 3,
-    APIs: global.APIs,
-    APIKeys: global.APIKeys, 
-    phoneNumber: "" // Don't Add If You Are Using Panel To Deploy
-};
+// ========== A€E-MD SETTINGS ==========
+global.owner = ['263789421909'];
+global.ownerName = 'ACE';
+global.botName = 'A€E-MD';
+global.botNumber = '';
+global.prefix = '.';
+global.footer = '© A€E-MD | BY ACE';
+global.menuImage = './assets/menu_image.jpg';
+global.botPic = './assets/menu_image.jpg';
+global.owner
