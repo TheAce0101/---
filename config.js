@@ -24,12 +24,11 @@ global.APIKeys = {
 };
 
 // ========== A€E-MD SETTINGS ==========
-global.owner = ['263789421909'];
-global.ownerName = 'ACE';
+global.owner = ['263776811186'];
+global.ownerName = 'Tinashe Muchoza';
 global.botName = 'A€E-MD';
-global.botNumber = '';
+global.botNumber = '263789421809';
 global.prefix = '.';
-global.footer = '© A€E-MD | BY ACE';
+global.footer = '© A€E-MD | BY Tinashe Muchoza';
 global.menuImage = './assets/menu_image.jpg';
 global.botPic = './assets/menu_image.jpg';
-global.owner
